@@ -1,28 +1,44 @@
 Clone Website Project
+
 Overview
+
 Welcome to the Clone Website Project! This GitHub repository contains the source code and assets for a project that aims to replicate the functionality and design of a popular website. The goal of this project is to provide a learning resource for developers interested in understanding how certain websites are built and to practice their web development skills.
+
 
 Table of Contents
 Features
+
 Getting Started
+
 Prerequisites
+
 Installation
+
 Usage
+
 Contributing
+
 License
+
 Features
+
 Clone Website: The project replicates the core features and design of a well-known website.
 Responsive Design: The website is designed to be responsive and work seamlessly across various devices and screen sizes.
 HTML, CSS, JavaScript: The project is built using standard web technologies, making it easy for developers to understand and modify.
 Getting Started
 To get started with the Clone Website Project, follow these steps:
 
+
 Prerequisites
 Make sure you have the following software installed on your machine:
 
+
 Git
+
 A code editor of your choice (e.g., Visual Studio Code)
+
 Installation
+
 Clone the repository to your local machine:
 
 bash
