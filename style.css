@@ -346,3 +346,67 @@
     text-align: center;
     font-family: system-ui;
 }
+
+/* QnA */
+.QnA{
+    /* border: 2px solid red; */
+    width: 83%;
+    margin: auto;
+    height: 10vw;
+    position: relative;
+    top: 18vw;
+    display: flex;
+    justify-content: space-around;
+}
+.qcon{
+    width: 20%;
+    /* border: 2px solid green; */
+    height: 20%;
+    
+}
+ul > li{
+
+    font-family: system-ui;
+    text-align: left;
+    list-style: none;
+    font-size: 0.9vw;
+    position: relative;
+    left: 2.3vw;
+}
+
+.qcon > h3{
+    font-weight: bold;
+    font-size: 1vw;
+    font-family: system-ui;
+    text-align: center;
+}
+
+.hrr{
+    
+    font-size: 1vw;
+    font-family: system-ui;
+}
+
+.og{
+    border-radius: 0.3vw;
+    font-size: 1vw;
+    border-color: #dededf;
+    font-family: system-ui;
+    position: relative;
+    text-align: center;
+    top: 1vw;
+}
+.dusara
+{
+    width: 10vw;
+    background-color: #09a6bd;
+    position: relative;
+    top: 2vw;
+    height: 2.6vw;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    border-radius: 0.2vw;
+}
