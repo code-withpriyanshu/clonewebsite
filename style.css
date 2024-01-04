@@ -350,7 +350,7 @@
 /* QnA */
 .QnA{
     /* border: 2px solid red; */
-    width: 83%;
+    width: 74%;
     margin: auto;
     height: 10vw;
     position: relative;
@@ -391,9 +391,9 @@ ul > li{
     border-radius: 0.3vw;
     font-size: 1vw;
     border-color: #dededf;
-    font-family: system-ui;
     position: relative;
     text-align: center;
+    font-family: system-ui;
     top: 1vw;
 }
 .dusara
@@ -402,6 +402,7 @@ ul > li{
     background-color: #09a6bd;
     position: relative;
     top: 2vw;
+    font-family: system-ui;
     height: 2.6vw;
     color: white;
     display: flex;
@@ -410,3 +411,12 @@ ul > li{
     width: 100%;
     border-radius: 0.2vw;
 }
+
+.original{
+    position: relative;
+    top: 30vw;
+    margin: 3vw;
+    left: 42vw;
+    font-family: cursive;
+}
+
