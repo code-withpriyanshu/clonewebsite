@@ -316,12 +316,14 @@
     position: relative;
     top: 0.8vw;
     font-family: system-ui;
+    font-size: 1vw;
 }
 .imp{
     background-color: #00b6d1;
     color: white;
     font-weight: bold;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.3vw;
 }
 .label{
     width:100%;
@@ -410,6 +412,7 @@ ul > li{
     justify-content: center;
     width: 100%;
     border-radius: 0.2vw;
+    font-size: 1.3vw;
 }
 
 .original{
